@@ -9,7 +9,7 @@ require (
 	github.com/google/martian v2.1.0+incompatible
 	github.com/ip2location/ip2location-go/v9 v9.6.1
 	github.com/ipipdotnet/ipdb-go v1.3.3
-	github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20231013030745-3066d243cd04
+	github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20260901011515-c1a1fc7d5941
 	github.com/oschwald/geoip2-golang v1.9.0
 	github.com/saracen/go7z v0.0.0-20191010121135-9c09b6bd7fda
 	github.com/spf13/cobra v1.8.0

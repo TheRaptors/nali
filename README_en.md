@@ -28,7 +28,7 @@
   - ZX ipv6 database
   - Geoip2 city database
   - IPIP free database
-  - ip2region database
+  - ip2region IPv4 / IPv6 database
   - DB-IP database
   - IP2Location DB3 LITE database
 - CDN provider query
@@ -241,6 +241,7 @@ Supported database:
 - Chunzhen `['chunzhen', 'qqwry']`
 - IPIP `['ipip']`
 - Ip2Region `['ip2region', 'i2r']`
+- Ip2Region IPv6 `['ip2region-ipv6', 'i2r-ipv6']`
 - DBIP `['dbip', 'db-ip']`
 - IP2Location `['ip2location']`
 

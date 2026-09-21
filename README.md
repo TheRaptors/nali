@@ -28,7 +28,7 @@
   - ZX IPv6 离线数据库
   - Geoip2 城市数据库 (可选)
   - IPIP 数据库 (可选)
-  - ip2region 数据库 (可选)
+  - ip2region IPv4 / IPv6 数据库 (可选)
   - DB-IP 数据库 (可选)
   - IP2Location DB3 LITE 数据库 (可选)
 - CDN 服务提供商查询
@@ -211,7 +211,7 @@ Usage:
 
 Available Commands:
   help        Help about any command
-  update      update qqwry, zxipv6wry, ip2region ip database and cdn
+  update      update qqwry, zxipv6wry, ip2region, ip2region-ipv6 ip database and cdn
 
 Flags:
   -h, --help     help for nali
@@ -248,6 +248,7 @@ $ nali update --db qqwry,cdn
 - Chunzhen `['chunzhen', 'qqwry']`
 - IPIP `['ipip']`
 - Ip2Region `['ip2region', 'i2r']`
+- Ip2Region IPv6 `['ip2region-ipv6', 'i2r-ipv6']`
 - DBIP `['dbip', 'db-ip']`
 - IP2Location `['ip2location']`
 

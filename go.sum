@@ -33,8 +33,8 @@ github.com/ipipdotnet/ipdb-go v1.3.3 h1:GLSAW9ypLUd6EF9QNK2Uhxew9Jzs4XMJ9gOZEFnJ
 github.com/ipipdotnet/ipdb-go v1.3.3/go.mod h1:yZ+8puwe3R37a/3qRftXo40nZVQbxYDLqls9o5foexs=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
-github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20231013030745-3066d243cd04 h1:FfdA6VoXuyjsRqZlbm5H97zGtmlcM/yB6k1Expsym1E=
-github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20231013030745-3066d243cd04/go.mod h1:C5LA5UO2ZXJrLaPLYtE1wUJMiyd/nwWaCO5cw/2pSHs=
+github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20260901011515-c1a1fc7d5941 h1:knKngPOsucH2kLIbCzq1FzD+pTGyDk6YictcVFU1uGE=
+github.com/lionsoul2014/ip2region/binding/golang v0.0.0-20260901011515-c1a1fc7d5941/go.mod h1:sj5LMpsqB4IWdwIrcmmBJM6m+rW/uOQLSGUPhKkqdh8=
 github.com/magiconair/properties v1.8.7 h1:IeQXZAiQcpL9mgcAe1Nu6cX9LLw6ExEHKjN0VQdvPDY=
 github.com/magiconair/properties v1.8.7/go.mod h1:Dhd985XPs7jluiymwWYZ0G4Z61jb3vdS329zhj2hYo0=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
